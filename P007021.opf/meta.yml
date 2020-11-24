@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ1262
   title: ལུ་ཨི་པའི་དཀྱིལ་ཆོག
-  volume: ''
+  volume:
+    608615d6fdc047c59a7af22c61f6beb7:
+      image_group_id: I1CZ1743
+      title: Volume 1 of lu i pa'i dkyil chog
+      volume_number: 1
+      total_pages: 20
   author: ''
+ebook_metadata:
+  title: ལུ་ཨི་པའི་དཀྱིལ་ཆོག
+  author: ''
+  sku: P007021
+  cover: cover.jpg
+  layers:
+  - pagination
