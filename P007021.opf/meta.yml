@@ -5,11 +5,12 @@ source_metadata:
   title: ལུ་ཨི་པའི་དཀྱིལ་ཆོག
   author: ''
   volumes:
-    97690b8e521541b89054dbd8b32a8845:
+    608615d6fdc047c59a7af22c61f6beb7:
       image_group_id: I1CZ1743
-      title: ''
+      title: Volume 1 of lu i pa'i dkyil chog
       volume_number: 1
       total_pages: 20
+      base_file: v001.txt
 ebook_metadata:
   title: ལུ་ཨི་པའི་དཀྱིལ་ཆོག
   author: ''
